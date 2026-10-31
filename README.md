@@ -13,7 +13,6 @@
 - 🎓 **Statistics student** @ Cairo University, FEPS *(GPA 3.5)*
 - 📊 Passionate about turning raw data into clear, actionable insight
 - 🏅 **Google Data Analytics Professional Certificate**
-- 📈 Currently leveling up in **Power BI** *(PL-300 in progress)*
 - 🌍 Based in **Cairo, Egypt**
 - 💬 Languages: Arabic 🇪🇬 (Native) · English (B1–B2)
 
