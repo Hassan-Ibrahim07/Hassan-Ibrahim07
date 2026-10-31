@@ -49,8 +49,8 @@
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [🔬 AI vs. Search Engines](https://github.com/Hassan-Ibrahim07/methodology) | Primary research study on 57 students — ANOVA, Tukey HSD, full Python pipeline | Python · SPSS · Survey Design |
-| [📊 Bellabeat Case Study]([https://github.com/Hassan-Ibrahim07](https://github.com/Hassan-Ibrahim07/google-project-bellabeat-)) | FitBit data analysis → consumer insights & Tableau dashboards | SQL · R · Tableau |
-| [💰 Sales Dashboard]([https://github.com/Hassan-Ibrahim07](https://github.com/Hassan-Ibrahim07/Excel-Project)) | Interactive Excel dashboard with Power Query & Pivot Tables | Excel · Power Query |
+| [📊 Bellabeat Case Study]([https://github.com/Hassan-Ibrahim07](https://github.com/Hassan-Ibrahim07/google-project-bellabeat-) | FitBit data analysis → consumer insights & Tableau dashboards | SQL · R · Tableau |
+| [💰 Sales Dashboard]([https://github.com/Hassan-Ibrahim07](https://github.com/Hassan-Ibrahim07/Excel-Project) | Interactive Excel dashboard with Power Query & Pivot Tables | Excel · Power Query |
 
 ---
 
